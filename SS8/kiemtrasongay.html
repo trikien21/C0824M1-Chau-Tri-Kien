@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+  <script>
+    let inputMonth = +prompt("Nhập tháng");
+    if(inputMonth === 1||inputMonth === 3||inputMonth === 5||inputMonth === 8||inputMonth === 10||inputMonth === 12 ) {
+      alert("tháng có 31 ngày");
+    }else if (inputMonth === 4 ||inputMonth === 6 ||inputMonth === 9 ||inputMonth === 11) {
+        alert("tháng có 30 ngày");
+      } else if (inputMonth === 2) {
+        alert("tháng 2");
+    }
+    else{
+      alert("Wrong input");
+    }
+  </script>
+</body>
+</html>

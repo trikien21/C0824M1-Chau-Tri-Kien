@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+  let toan= parseInt(prompt("nhap diem toan: "));
+  let van = parseInt(prompt("nhap diem van: "));
+  let anh = parseInt(prompt("nhap diem anh: "));
+  let giua = parseInt(prompt("nhap diem giua ki: "));
+  let cuoi = parseInt(prompt("nhap diem thi cuoi ki: "));
+  let diem = (((((toan+van+anh)/3)+giua)/2)+cuoi)/2;
+  if(diem>=8.5){
+    document.write("hoc sinh gioi");
+  }else if(diem>=6.5){
+    document.write("hoc sinh kha");
+  }else if(diem>=4){
+    document.write("hoc sinh trung binh");
+  }else
+    document.write("rot");
+</script>
+
+</body>
+</html>

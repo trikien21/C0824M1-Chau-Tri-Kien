@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8bbf48e5-75b4-4ef8-8727-80c1f32f31be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SS5/bangcoban.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS5/formtimkiem.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS5/simpleform.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SS5/thoi khoa bieu.html" beforeDir="false" afterPath="$PROJECT_DIR$/SS5/thoi khoa bieu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS7/bienkieudulieutoantu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS7/dientichhinhtron.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS7/fileout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS7/khaibaobien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS7/tiente.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS7/toantu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS8/admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS8/kiemtrasongay.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS8/namhuan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS8/switch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS8/toantu3ngoi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS9/dieukien1/b5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS9/dieukien1/b6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS9/dieukien1/b7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SS5/simpleform.html" beforeDir="false" afterPath="$PROJECT_DIR$/SS5/simpleform.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SS6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SS6/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bài soạn.docx" beforeDir="false" afterPath="$PROJECT_DIR$/bài soạn.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,26 +29,40 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2mCTsWcDkBF6k9tIfYPuqMOZOmY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/trikien/Documents/C0824M1-ChauTriKien",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Node.js.nhapdiemhocvien.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/trikien/Documents/C0824M1-ChauTriKien&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -49,10 +79,29 @@
       <option name="presentableId" value="Default" />
       <updated>1726579764501</updated>
       <workItem from="1726579765579" duration="3000" />
+      <workItem from="1726893924921" duration="354000" />
+      <workItem from="1726920717050" duration="2404000" />
+      <workItem from="1726926592413" duration="1958000" />
+      <workItem from="1727103082239" duration="4112000" />
+      <workItem from="1727161720656" duration="7811000" />
+      <workItem from="1727177767178" duration="9671000" />
+      <workItem from="1727336282684" duration="113000" />
+      <workItem from="1727343420774" duration="6473000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
