@@ -10,8 +10,14 @@
     let codinh = 25;
     let phi= 0;
     if(phut>200){
-        phi= phut
+        phi= (phut -200)*200+150*400+50*600;
+    }else if(phut>50){
+        phi= (phut -50)*400+50*600;
+    }else{
+        phi= phut*600;
     }
+    let tong= 0.01*phi+ codinh;
+    document.write("so tien phai nop: "+tong);
 
 </script>
 
