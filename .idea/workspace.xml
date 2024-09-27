@@ -5,8 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bbf48e5-75b4-4ef8-8727-80c1f32f31be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SS10/uocso.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS7/ungdungmaytinh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS7/ungdungmaytinh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS8/tiente.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS8/tiente.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS9/dieukien2/b1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS9/dieukien2/b1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS9/dieukien2/b2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS9/dieukien2/b2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS9/dieukien2/b3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS9/dieukien2/b4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS9/dieukien2/b5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS9/dieukien2/b6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS9/dieukien2/b7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS9/nobita.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS9/nobita.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS9/skchuot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS9/skchuot.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SS9/dieukien1/b7.html" beforeDir="false" afterPath="$PROJECT_DIR$/SS9/dieukien1/b7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SS9/dieukien1/b1.html" beforeDir="false" afterPath="$PROJECT_DIR$/SS9/dieukien1/b1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,13 +34,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SS9/skchuot.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -70,7 +94,7 @@
       <workItem from="1727161720656" duration="7811000" />
       <workItem from="1727177767178" duration="9671000" />
       <workItem from="1727336282684" duration="113000" />
-      <workItem from="1727343420774" duration="7240000" />
+      <workItem from="1727343420774" duration="29895000" />
     </task>
     <servers />
   </component>

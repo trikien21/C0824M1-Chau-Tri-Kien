@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table>
+  <tr>
+    <th>Amount</th>
+    <th>From</th>
+    <th>To</th>
+  </tr>
+  <tr>
+    <td><input type="text" id="Amount"></td>
+    <td>
+      <select id="From">
+        <option value="met">met</option>
+        <option value="fit">fit</option>
+      </select>
+    </td>
+    <td>
+      <select id="To">
+        <option value="fit">fit</option>
+        <option value="met">met</option>
+      </select>
+    </td>
+    <td><button onclick="ChangeUnit()">Convert</button></td>
+  </tr>
+</table>
+</br>
+<p id="result"></p>
+<script src="b2.js"></script>
+</body>
+</html>
