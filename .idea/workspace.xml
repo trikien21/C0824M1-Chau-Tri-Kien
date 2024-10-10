@@ -5,16 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bbf48e5-75b4-4ef8-8727-80c1f32f31be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SS11/prime.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS9/bmi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS9/bmi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS9/doyouloveme.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS9/maytindongian.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS9/maytinhdongian.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS9/ngaytrongthang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS9/ngaytrongthang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12/caro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12/caro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12/daonguoc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12/run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12/taovathaotac.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12/taovathaotac.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12/timgiatri.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS12/timgiatrilonnhat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13/dich.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13/dich.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13/fakingtext.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13/hamcosan.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13/tictactoe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS13/tictactoe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS14/chuyendoinhietdo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS14/giatrinhonhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS14/taogoiham.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bài soạn.docx" beforeDir="false" afterPath="$PROJECT_DIR$/bài soạn.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SS11/prime.html" beforeDir="false" afterPath="$PROJECT_DIR$/SS11/prime.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,29 +55,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.b4.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.while.html.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.laplongnhau.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.nhapdiemhocvien.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.sinhbangcuuchuong.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.ttvongfor.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.vonglapfor.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.while.js.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/trikien/Documents/C0824M1-ChauTriKien&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Settings.JavaScript&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.b4.html.executor": "Run",
+    "JavaScript Debug.giatrinhonhat.html.executor": "Run",
+    "JavaScript Debug.while.html.executor": "Run",
+    "Node.js.daonguoc.js.executor": "Run",
+    "Node.js.hamcosan.js.executor": "Run",
+    "Node.js.laplongnhau.js.executor": "Run",
+    "Node.js.nhapdiemhocvien.js.executor": "Run",
+    "Node.js.sinhbangcuuchuong.js.executor": "Run",
+    "Node.js.timgiatri.js.executor": "Run",
+    "Node.js.ttvongfor.js.executor": "Run",
+    "Node.js.vonglapfor.js.executor": "Run",
+    "Node.js.while.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/trikien/Documents/C0824M1-ChauTriKien",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "Settings.JavaScript",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -97,6 +110,9 @@
       <workItem from="1727587284564" duration="12000" />
       <workItem from="1727776203089" duration="12162000" />
       <workItem from="1727946489556" duration="5284000" />
+      <workItem from="1727964084432" duration="1254000" />
+      <workItem from="1728134929377" duration="1285000" />
+      <workItem from="1728382473237" duration="10625000" />
     </task>
     <servers />
   </component>

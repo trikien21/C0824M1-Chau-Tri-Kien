@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+   function min(arr){
+       let min=arr[0];
+       for(let i=0; i<arr.length; i++){
+           if(arr[i]<min){
+               min= arr[i];
+           }
+       }
+       return min;
+   }
+   let arr=[3, 5, 1, 8, -3, 7, 8];
+   let minimun = min(arr);
+   alert(minimun);
+</script>
+</body>
+</html>
