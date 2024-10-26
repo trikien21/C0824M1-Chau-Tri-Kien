@@ -1,4 +1,3 @@
-
 function fibonacci(num){
     if(num===0){
         return 0;
@@ -11,14 +10,8 @@ function fibonacci(num){
 let num=0;
 let count=0;
 while(count<20){
-    for(let i=0; i<num; i++){
-        let F= fibonacci(num);
-        count++;
-        document.write(F+ "</br>");
-        break;
-    }
+    let F= fibonacci(num);
+    count++;
+    console.log(F);
     num++;
 }
-
-
-

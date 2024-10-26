@@ -1,0 +1,66 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+div.form-student{
+    width: 580px;
+    border: 1px solid #ccc;
+    margin: 25px;
+    padding: 15px;
+    float: left;
+}
+
+div.list-student{
+    width: 850px;
+    border: 1px solid #ccc;
+    margin: 25px;
+    padding: 15px;
+    float: left;
+}
+
+h3{
+    padding: 0px;
+    margin-top: 0px;
+}
+
+div.form-student label{
+    width: 100px;
+    float : left;
+}
+
+div.form-student input[type="text"]{
+    margin-bottom: 10px;
+    width: 200px;
+}
+
+button{
+    margin-top: 10px;
+}
+
+.error{
+    color: red;
+}
+
+table, th, td{
+    border:1px solid #868585;
+}
+table{
+    border-collapse:collapse;
+}
+table tr:nth-child(odd){
+    background-color:#eee;
+}
+table tr:nth-child(even){
+    background-color:white;
+}
+table tr:nth-child(1){
+    background-color:skyblue;
+}
+#father{
+    width:400px;
+    overflow:auto;
+}
+table{
+    width:600px;
+}

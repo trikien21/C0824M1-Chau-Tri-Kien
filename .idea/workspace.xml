@@ -5,32 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bbf48e5-75b4-4ef8-8727-80c1f32f31be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SS11/lap1/b1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS11/lap1/b2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS11/lap1/b3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS11/lap1/run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS15/feetmeter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS15/kiemtradoixung.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS15/ktsnt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS15/ungdungsanpham.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS16/funnycircles.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS16/funnycircles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS16/nhietdo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS16/xaydunghinhtron.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS16/xaydunglopdate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS16/xaydunglophinhchunhat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS16/xaydunglophinhchunhat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS17/denpin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS17/gamedichuyen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS17/gamedichuyen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SS17/pikachu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thi1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuattoan/taodaysonguyentangdan.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuattoan/timvitri.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuattoan/toan.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11/lap1/b4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11/lap1/b5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11/lap1/b6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11/lap1/b7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11/lap1/b8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11/lap2/b1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11/lap2/b2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11/lap2/b3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11/lap2/b4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11/lap2/b5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS11/lap2/run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casestudentstudentmanagement/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casestudentstudentmanagement/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casestudentstudentmanagement/js/student.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finaltest/cau1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finaltest/cau2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finaltest/cau3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finaltest/cau4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finaltest/cau4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finaltest/run.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SS13/fakingtext.html" beforeDir="false" afterPath="$PROJECT_DIR$/SS13/fakingtext.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SS11/lap1/b3.js" beforeDir="false" afterPath="$PROJECT_DIR$/SS11/lap1/b3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SS11/lap1/run.html" beforeDir="false" afterPath="$PROJECT_DIR$/SS11/lap1/run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thi.html" beforeDir="false" afterPath="$PROJECT_DIR$/thuattoan/thi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thi1.html" beforeDir="false" afterPath="$PROJECT_DIR$/thuattoan/thi1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$i soạn.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
@@ -62,56 +63,94 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.b4.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.fakingtext.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.funny circles.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.gamedichuyen.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.giatrinhonhat.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.run.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.thi.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.while.html.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.b1.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.b2.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.b3.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.daonguoc.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.feetmeter.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.funnycircles.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.gamedichuyen.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.hamcosan.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.kiemtradoixung.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.ktsnt.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.laplongnhau.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.nhapdiemhocvien.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.sinhbangcuuchuong.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.taodaysonguyentangdan.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.timgiatri.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.timvitri.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.toan.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.ttvongfor.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.vonglapfor.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.while.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.xaydunghinhtron.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.xaydunglopdate.js.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/trikien/Documents/C0824M1-ChauTriKien&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Settings.JavaScript&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.b4.html.executor": "Run",
+    "JavaScript Debug.fakingtext.html.executor": "Run",
+    "JavaScript Debug.funny circles.html.executor": "Run",
+    "JavaScript Debug.gamedichuyen.html.executor": "Run",
+    "JavaScript Debug.giatrinhonhat.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.run.html (1).executor": "Run",
+    "JavaScript Debug.run.html.executor": "Run",
+    "JavaScript Debug.thi.html.executor": "Run",
+    "JavaScript Debug.while.html.executor": "Run",
+    "Node.js.b1.js.executor": "Run",
+    "Node.js.b2.js.executor": "Run",
+    "Node.js.b3.js.executor": "Run",
+    "Node.js.b4.js.executor": "Run",
+    "Node.js.b5.js.executor": "Run",
+    "Node.js.b6.js.executor": "Run",
+    "Node.js.b7.js.executor": "Run",
+    "Node.js.cau1.js.executor": "Run",
+    "Node.js.cau2.js.executor": "Run",
+    "Node.js.daonguoc.js.executor": "Run",
+    "Node.js.feetmeter.js.executor": "Run",
+    "Node.js.funnycircles.js.executor": "Run",
+    "Node.js.gamedichuyen.js.executor": "Run",
+    "Node.js.hamcosan.js.executor": "Run",
+    "Node.js.kiemtradoixung.js.executor": "Run",
+    "Node.js.ktsnt.js.executor": "Run",
+    "Node.js.laplongnhau.js.executor": "Run",
+    "Node.js.nhapdiemhocvien.js.executor": "Run",
+    "Node.js.sinhbangcuuchuong.js.executor": "Run",
+    "Node.js.student.js.executor": "Debug",
+    "Node.js.taodaysonguyentangdan.js.executor": "Run",
+    "Node.js.timgiatri.js.executor": "Run",
+    "Node.js.timvitri.js.executor": "Run",
+    "Node.js.toan.js.executor": "Run",
+    "Node.js.ttvongfor.js.executor": "Run",
+    "Node.js.vonglapfor.js.executor": "Run",
+    "Node.js.while.js.executor": "Run",
+    "Node.js.xaydunghinhtron.js.executor": "Run",
+    "Node.js.xaydunglopdate.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/trikien/Documents/C0824M1-ChauTriKien",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/thuattoan" />
       <recent name="$PROJECT_DIR$/SS17" />
       <recent name="$PROJECT_DIR$/SS13" />
     </key>
+  </component>
+  <component name="RunManager" selected="Node.js.cau2.js">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C0824M1-ChauTriKien/casestudentstudentmanagement/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="b5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/SS11/lap2/b5.js" working-dir="$PROJECT_DIR$/SS11/lap2">
+      <method v="2" />
+    </configuration>
+    <configuration name="cau1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/finaltest/cau1.js" working-dir="$PROJECT_DIR$/finaltest">
+      <method v="2" />
+    </configuration>
+    <configuration name="cau2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/finaltest/cau2.js" working-dir="$PROJECT_DIR$/finaltest">
+      <method v="2" />
+    </configuration>
+    <configuration name="student.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/casestudentstudentmanagement/js/student.js" working-dir="$PROJECT_DIR$/casestudentstudentmanagement/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.cau2.js" />
+        <item itemvalue="Node.js.cau1.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.student.js" />
+        <item itemvalue="Node.js.b5.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -150,7 +189,12 @@
       <workItem from="1728985081667" duration="12963000" />
       <workItem from="1729166959785" duration="5700000" />
       <workItem from="1729303190093" duration="1139000" />
-      <workItem from="1729304334711" duration="3684000" />
+      <workItem from="1729304334711" duration="7979000" />
+      <workItem from="1729342766831" duration="30457000" />
+      <workItem from="1729585486988" duration="18366000" />
+      <workItem from="1729677723025" duration="6738000" />
+      <workItem from="1729772150026" duration="8380000" />
+      <workItem from="1729945428683" duration="7151000" />
     </task>
     <servers />
   </component>
@@ -167,5 +211,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/SS11/lap1/b6.js</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
